@@ -1,6 +1,6 @@
 # ⚡️ Welcome to Blitzship
 
-[Get access](https://blitz-ship.com) / [Watch Intro](https://www.youtube.com/embed/9LLTTEUxVqI?si=d0aMl5PqpByxz66x)
+[Get access](https://blitz-ship.com) / [Watch Intro](https://www.youtube.com/embed/9LLTTEUxVqI?si=d0aMl5PqpByxz66x) / [See documentation](https://blitz-ship.com/docs)
 
 This powerful monorepo template helps you build, deploy and launch your SaaS businesses on AWS quickly and efficiently.
 Including tons of features like authentication, transactional emails, custom domains, responsive landing pages and more.
